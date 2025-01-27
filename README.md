@@ -8,7 +8,7 @@ python3 -m venv ./.venv && source ./.venv/bin/activate
 ```
 then to run the app
 ```bash
-python3 ./hello_world.py
+python3 ./quiz_app.py
 ```
 to exit the virtual environment simply type
 ```bash 
